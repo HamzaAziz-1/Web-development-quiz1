@@ -54,8 +54,44 @@
     font-size: 1.6rem;
     font-weight: 800;
 }
+.heading  {
+    
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+    font-size: 1.4rem;
+    font-weight:bold;
+    padding-left: 2.3rem;
+}
 
+.fiverr{
+    padding-left: 3.1rem;
 
+}
+.exp-gd{
+    padding-top: 1.5rem;
+}
+.upwork{
+
+    padding-top: 2.5rem;
+    padding-left: 2.5rem;
+}
+.exp-disc{
+    padding-top: 3.5rem;
+    
+}
+
+.exp-title{
+    padding-top: 3.6rem;
+}
+.heading-s{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+    font-size: 1.4rem;
+    font-weight:bold;
+    color: #557B83;
+}
 
 .contact-info ul{
     padding-top: 2rem;
@@ -65,6 +101,8 @@
 .contact-info ul li{
     padding: .4rem 0;
     color: ghostwhite;
+    font-weight: 600;
+    font-size: medium;
 }
 .fa-phone, .fa-envelope{
     padding-right: 1rem;
@@ -73,7 +111,7 @@
 }
 
 .fa-facebook-f{
-    padding-right: 1.4rem;
+    padding-right: 1rem;
     font-size: 1.2rem;
     color: #2D9CDB;
 }
@@ -86,4 +124,51 @@
  padding-right: 0.8rem;
     font-size: 1.2rem;
     color: #2D9CDB;
+}
+.skills{
+    padding-left: 6rem;
+    display: inline-block;
+}
+.c-skills{
+    padding-left: 5.9rem;
+    display: inline-block;
+}
+.sql-skills{
+    padding-left: 6.12rem;
+    display: inline-block;
+}
+
+.js-skills{
+    padding-left: 3.4rem;
+    display: inline-block;
+}
+.py-skills{
+    padding-left: 4.7rem;
+    display: inline-block;
+}
+.r-skills{
+    padding-left: 5.4rem;
+    display: inline-block;
+}
+.html-skills{
+    padding-left: 3rem;
+    display: inline-block;
+}
+.cs-skills{
+    padding-left: 6.6rem;
+    display: inline-block;
+}
+
+
+
+
+.circle1{
+    color: #a5a5a5; 
+    font-size: 4rem; 
+    margin-top: 7px;
+}
+.circle{
+    color: #fff; 
+    font-size: 4rem; 
+    margin-top: 7px;
 }
