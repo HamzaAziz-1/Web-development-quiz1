@@ -2,6 +2,8 @@
 .img-fluid{
     margin-top: 2rem;
     border: 0.4rem solid #002333;
+    width: 80%;
+   
 }
 .col-lg-3{
     background-image : linear-gradient(to right top, #2e0537, #40195d, #493089, #454ab9, #1267eb);
