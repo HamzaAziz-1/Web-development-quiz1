@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Noto+Serif&display=swap');
+.img-fluid{
+    margin-top: 2rem;
+    border: 0.4rem solid #002333;
+}
+.col-lg-3{
+    background-image : linear-gradient(to right top, #2e0537, #40195d, #493089, #454ab9, #1267eb);
+}
+
+.my-interest{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    color: ghostwhite;
+    
+    
+}
+
+.col-lg-9{
+    background-color: ghostwhite;
+}
+
+.name{
+    
+    color: ghostwhite;
+    padding-top: 2rem;
+
+}
+.name .programme{
+    
+   
+      color: #56BBF1;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      
+}
+
+.line{
+    color: white;
+    width: 75%;
+    margin-left: 2.5rem; 
+   
+}
+.about-section{
+    font-size: 1.1rem;
+}
+.headings{
+    
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #557B83;
+    margin-bottom: 1.2rem;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+
+
+.contact-info ul{
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.contact-info ul li{
+    padding: .4rem 0;
+    color: ghostwhite;
+}
+.fa-phone, .fa-envelope{
+    padding-right: 1rem;
+    font-size: 1.2rem;
+    color: #2D9CDB;
+}
+
+.fa-facebook-f{
+    padding-right: 1.4rem;
+    font-size: 1.2rem;
+    color: #2D9CDB;
+}
+.fa-instagram{
+     padding-right: 1.1rem;
+    font-size: 1.2rem;
+    color: #2D9CDB;
+}
+.fa-house{
+ padding-right: 0.8rem;
+    font-size: 1.2rem;
+    color: #2D9CDB;
+}
