@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Noto+Serif&display=swap');
+body{
+   background-color: ghostwhite;
+    /*  */
+    
+}
 .img-fluid{
     margin-top: 2rem;
     border: 0.4rem solid #002333;
@@ -18,7 +23,7 @@
 }
 
 .col-lg-9{
-    background-color: ghostwhite;
+    background-color: #EEF2FF;
 }
 
 .name{
