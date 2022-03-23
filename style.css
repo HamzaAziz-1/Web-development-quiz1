@@ -4,13 +4,18 @@ body{
     /*  */
     
 }
+.main{
+   
+    margin-top:5rem;
+    margin-bottom:5rem ;
+}
 .img-fluid{
     margin-top: 2rem;
     border: 0.4rem solid #002333;
     width: 80%;
    
 }
-.col-lg-3{
+.left-container{
     background-image : linear-gradient(to right top, #2e0537, #40195d, #493089, #454ab9, #1267eb);
 }
 
@@ -22,8 +27,13 @@ body{
     
 }
 
-.col-lg-9{
+.my-lists{
+    text-transform: uppercase;
+    padding-right: 1.5rem;
+}
+.right-container{
     background-color: #EEF2FF;
+    /* EEF2FF */
 }
 
 .name{
@@ -50,8 +60,23 @@ body{
 .about-section{
     font-size: 1.1rem;
 }
+.progress{
+
+    margin-top: 1.2rem;
+    margin-bottom: 1rem;
+    padding-left: 0px;
+}
 .headings{
     
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #557B83;
+    margin-bottom: 1.2rem;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+.headings-edu{
+    padding-top: 4rem;
     letter-spacing: 1px;
     text-transform: uppercase;
     color: #557B83;
@@ -64,40 +89,69 @@ body{
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-bottom: 1.2rem;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight:bold;
     padding-left: 2.3rem;
 }
 
-.fiverr{
+/* .fiverr{
     padding-left: 3.1rem;
 
 }
-.exp-gd{
-    padding-top: 1.5rem;
-}
 .upwork{
 
-    padding-top: 2.5rem;
+    padding-top: 3rem;
     padding-left: 2.5rem;
+
+} */
+.exp-gd{
+    padding-top: 1.5rem;
+    padding-left: 2rem;
 }
+
 .exp-disc{
     padding-top: 3.5rem;
+    padding-left: 2rem;
     
 }
 
 .exp-title{
     padding-top: 3.6rem;
+    /* border-right: 1px solid #ccc; */
 }
 .heading-s{
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-bottom: 1.2rem;
-    font-size: 1.4rem;
+    padding-bottom: 1.2rem;
+    margin-top: 1.2rem;
+    font-size: 1.3rem;
     font-weight:bold;
     color: #557B83;
 }
+.heading-mt{
+    /* padding-top: 2rem;
+    margin-top: 0.5rem; */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight:bold;
+    color: #557B83;
+}
+.edu-mt{
+    padding-top: 2.5rem;
+    margin-top: 1rem;
+    padding-left: 2rem;
+}
+.edu-discription{
+    padding-top: 0.8rem;
+}
+.edu-div{
+        padding-top: 3.6rem;
+        /* border-right: 1px solid #ccc; */
+    
 
+}
 .contact-info ul{
     padding-top: 2rem;
     padding-left: 2rem;
@@ -130,50 +184,4 @@ body{
     font-size: 1.3rem;
     color: #2D9CDB;
 }
-.skills{
-    padding-left: 6rem;
-    display: inline-block;
-}
-.c-skills{
-    padding-left: 5.9rem;
-    display: inline-block;
-}
-.sql-skills{
-    padding-left: 6.12rem;
-    display: inline-block;
-}
 
-.js-skills{
-    padding-left: 3.4rem;
-    display: inline-block;
-}
-.py-skills{
-    padding-left: 4.7rem;
-    display: inline-block;
-}
-.r-skills{
-    padding-left: 5.4rem;
-    display: inline-block;
-}
-.html-skills{
-    padding-left: 3rem;
-    display: inline-block;
-}
-.cs-skills{
-    padding-left: 6.6rem;
-    display: inline-block;
-}
-
-
-
-
-.circle1{
-    color: #a5a5a5; 
-    font-size: 4rem; 
-    margin-top: 7px;
-}
-.circle{
-    color: #fff; 
-    font-size: 4rem; 
-    margin-top: 7px;
-}
