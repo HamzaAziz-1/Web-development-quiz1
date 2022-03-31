@@ -17,7 +17,7 @@ body{
 }
 
 .my-interest{
-    padding-top: 2rem;
+    padding-top: 0.5rem;
     padding-left: 2rem;
     color: ghostwhite;
     
@@ -148,7 +148,7 @@ body{
 
 }
 .contact-info ul{
-    padding-top: 2rem;
+    padding-top: 1rem;
     padding-left: 2rem;
 }
 
