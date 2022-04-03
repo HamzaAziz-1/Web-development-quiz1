@@ -181,14 +181,14 @@ body{
     font-size: 1.3rem;
     color: #2D9CDB;
 }
-.icon{
-    padding-right: 1.2rem;
-    font-size: 1.2rem;
-    color: #2D9CDB;
-}
 
 .fadeinleft {
     opacity: 0;
     margin-left: -300px;
     max-width: 100%;
+}
+.icon {
+    padding-right: 1.2rem;
+    font-size: 1.2rem;
+    color: #2D9CDB;
 }
