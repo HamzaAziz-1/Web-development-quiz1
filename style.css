@@ -188,7 +188,11 @@ body{
     max-width: 100%;
 }
 .icon {
-    padding-right: 1.2rem;
+    padding-right: 1rem;
     font-size: 1.2rem;
-    color: #2D9CDB;
+    color:#454ab9;
+}
+
+.hobbies{
+    font-size: 1rem;
 }
