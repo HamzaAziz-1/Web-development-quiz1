@@ -182,3 +182,8 @@ body{
     color: #2D9CDB;
 }
 
+.fadeinleft {
+    opacity: 0;
+    margin-left: -300px;
+    max-width: 100%;
+}
