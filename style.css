@@ -91,16 +91,6 @@ body{
     padding-left: 2.3rem;
 }
 
-/* .fiverr{
-    padding-left: 3.1rem;
-
-}
-.upwork{
-
-    padding-top: 3rem;
-    padding-left: 2.5rem;
-
-} */
 .exp-gd{
     padding-top: 1.5rem;
     padding-left: 2rem;
@@ -114,7 +104,7 @@ body{
 
 .exp-title{
     padding-top: 3.6rem;
-    /* border-right: 1px solid #ccc; */
+    border-right: 1px solid #ccc;
 }
 .heading-s{
     letter-spacing: 1px;
@@ -145,7 +135,7 @@ body{
 }
 .edu-div{
         padding-top: 3.6rem;
-        /* border-right: 1px solid #ccc; */
+        border-right: 1px solid #ccc;
     
 
 }
